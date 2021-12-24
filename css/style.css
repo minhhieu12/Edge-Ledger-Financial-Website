@@ -225,4 +225,6 @@ p {
     padding: 0.5rem;
 }
 
-/* Map */
+#main-footer .container {
+    text-align: center;
+}

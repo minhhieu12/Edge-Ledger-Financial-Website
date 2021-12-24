@@ -59,14 +59,14 @@
     #contact .map {
         height: 200px;
         border-top: 4px solid #333;
+        flex-basis: auto;
     }
 }
 
-/*
 @media(max-width: 568px) {
     #showcase .showcase-content {
         margin-top: -2rem;
-        top: 130px;
+        top: 144px;
     }
 
     .l-heading {
@@ -77,4 +77,3 @@
         font-size: 1rem;
     }
 }
-*/
